@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314538333932",
+    "project_id": "yog-guru-29a4d",
+    "storage_bucket": "yog-guru-29a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314538333932:android:9f3eeb10fcee19386fb7c9",
+        "android_client_info": {
+          "package_name": "com.example.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314538333932-cbhe3gah8bmn9dqjru22tdmak32314a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yoga",
+            "certificate_hash": "841f679cce12b6c48c4206ea0347176a7e0be85c"
+          }
+        },
+        {
+          "client_id": "314538333932-t3u7sem4kvlccig5artdnttkn9oaafho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKp4GDDYNl-0Nj3G7jRfBrz4m-YM4TJ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314538333932-t3u7sem4kvlccig5artdnttkn9oaafho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
